@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="265504f7-11e7-4579-b9c8-21198aee8d51" name="Changes" comment="014 Commit">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/erdincozdemir/try_catch_example/DemoTryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erdincozdemir/try_catch_example/DemoTryCatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.DemoTryCatch.executor": "Run",
+    "Application.DemoTryCatch.executor": "Debug",
     "Application.LogKayitFormu.executor": "Run",
     "Application.LogKayitYeniForm.executor": "Run",
     "Application.TestOverride.executor": "Run",
@@ -111,7 +109,7 @@
       <workItem from="1711566014968" duration="2523000" />
       <workItem from="1711576249166" duration="2477000" />
       <workItem from="1711646064009" duration="4162000" />
-      <workItem from="1713385760939" duration="44000" />
+      <workItem from="1713385760939" duration="139000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
