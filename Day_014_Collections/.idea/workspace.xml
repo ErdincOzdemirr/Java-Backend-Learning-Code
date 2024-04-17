@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="265504f7-11e7-4579-b9c8-21198aee8d51" name="Changes" comment="014 Commit">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/erdincozdemir/try_catch_example/DemoTryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erdincozdemir/try_catch_example/DemoTryCatch.java" afterDir="false" />
-    </list>
+    <list default="true" id="265504f7-11e7-4579-b9c8-21198aee8d51" name="Changes" comment="014 Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +107,7 @@
       <workItem from="1711566014968" duration="2523000" />
       <workItem from="1711576249166" duration="2477000" />
       <workItem from="1711646064009" duration="4162000" />
-      <workItem from="1713385760939" duration="139000" />
+      <workItem from="1713385760939" duration="234000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
