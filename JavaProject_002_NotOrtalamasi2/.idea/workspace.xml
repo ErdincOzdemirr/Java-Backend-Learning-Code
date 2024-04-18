@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08439b77-bae4-471c-a407-93faffaa25cc" name="Changes" comment="" />
+    <list default="true" id="08439b77-bae4-471c-a407-93faffaa25cc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/erdincozdemir/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/erdincozdemir/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
@@ -35,6 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713414870240</updated>
+      <workItem from="1713414871353" duration="158000" />
     </task>
     <servers />
   </component>
