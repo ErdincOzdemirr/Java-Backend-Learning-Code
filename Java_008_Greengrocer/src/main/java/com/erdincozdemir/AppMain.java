@@ -2,7 +2,7 @@ package com.erdincozdemir;
 
 import java.util.Scanner;
 
-public class Main {
+public class AppMain {
     public static void main(String[] args) {
 
         // Java ile kullanıcıların manavdan almış oldukları ürünlerin kilogram değerlerine
