@@ -13,5 +13,9 @@ public class Main {
 
         boolean sonuc = kosul1 && kosul2;
         System.out.println(sonuc);
+
+        int d = (a<b) ? 2:3;
+        System.out.println(d);
+
     }
 }
