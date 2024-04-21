@@ -14,10 +14,13 @@ public class Main {
 
         if (heat < 5) {
             System.out.println(heat + "  derece kayak için çok iyi bir sıcaklık.");
-        } else if (heat >= 5 && heat < 10) {
-            System.out.println(heat + "  derece sinema için çok iyi bir sıcaklık.");
-        } else if (heat >= 10 && heat < 25) {
-            System.out.println(heat + "  derece piknik için çok iyi bir sıcaklık.");
+        } else if (heat >= 5 && heat < 25) {
+            if (heat >= 5 && heat < 15) {
+                System.out.println(heat + "  derece sinema için çok iyi bir sıcaklık.");
+            }
+            if (heat >= 10 && heat < 25) {
+                System.out.println(heat + "  derece piknik için çok iyi bir sıcaklık.");
+            }
         } else if (heat >= 25 ) {
             System.out.println(heat + "  derece Yüzme için çok iyi bir sıcaklık.");
         } else {
